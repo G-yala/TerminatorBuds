@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/TerminatorBuds/static/css/main.f4b4afce.chunk.css",
+    "main.js": "/TerminatorBuds/static/js/main.9dccfd33.chunk.js",
+    "main.js.map": "/TerminatorBuds/static/js/main.9dccfd33.chunk.js.map",
+    "runtime-main.js": "/TerminatorBuds/static/js/runtime-main.ec5a3cd0.js",
+    "runtime-main.js.map": "/TerminatorBuds/static/js/runtime-main.ec5a3cd0.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/TerminatorBuds/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.0c98b5df.chunk.js": "/TerminatorBuds/static/js/2.0c98b5df.chunk.js",
+    "static/js/2.0c98b5df.chunk.js.map": "/TerminatorBuds/static/js/2.0c98b5df.chunk.js.map",
+    "index.html": "/TerminatorBuds/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/TerminatorBuds/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.f4b4afce.chunk.css.map": "/TerminatorBuds/static/css/main.f4b4afce.chunk.css.map",
+    "static/js/2.0c98b5df.chunk.js.LICENSE.txt": "/TerminatorBuds/static/js/2.0c98b5df.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/TerminatorBuds/static/media/My Favourite Horror.b9275133.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec5a3cd0.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.0c98b5df.chunk.js",
+    "static/css/main.f4b4afce.chunk.css",
+    "static/js/main.9dccfd33.chunk.js"
+  ]
+}
